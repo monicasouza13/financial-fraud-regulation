@@ -48,3 +48,12 @@ As principais fontes utilizadas incluem:
 Entre as legislações contempladas estão a **LGPD (Lei nº 13.709/2018)** e demais marcos legais relacionados ao Sistema Financeiro Nacional, prevenção a fraudes, crimes financeiros, pagamentos, proteção de dados e segurança.
 
 > **Nota:** Este projeto possui finalidade informativa e educacional e não substitui a consulta à legislação e aos atos normativos oficiais vigentes.
+
+## Autora
+
+**Mônica Souza**  
+Fraud Prevention • Financial Regulation • Risk Operations • Generative AI
+
+Profissional com experiência em Prevenção à Fraude, Operações de Crédito e Risco, com atuação integrada a LGPD, Proteção de Dados e Inteligência Artificial aplicada à automação de processos.
+
+[[LinkedIn](https://www.linkedin.com/in/monicassouza)]
