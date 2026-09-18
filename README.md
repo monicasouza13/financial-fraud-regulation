@@ -56,4 +56,4 @@ Fraud Prevention • Financial Regulation • Risk Operations • Generative AI
 
 Profissional com experiência em Prevenção à Fraude, Operações de Crédito e Risco, com atuação integrada a LGPD, Proteção de Dados e Inteligência Artificial aplicada à automação de processos.
 
-[[LinkedIn](https://www.linkedin.com/in/monicassouza)]
+[LinkedIn](https://www.linkedin.com/in/monicassouza/)
