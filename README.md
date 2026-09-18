@@ -1,5 +1,6 @@
 # financial-fraud-regulation
-Mapeamento das principais legislações e normativos brasileiros relacionados à prevenção à fraude e segurança no setor financeiro. Base de conhecimento estruturada no NotebookLM para servir como fonte de consulta sobre o tema. 
+Mapeamento das principais legislações e normativos brasileiros relacionados à prevenção à fraude e segurança no setor financeiro. Base de conhecimento estruturada no **NotebookLM** para servir como fonte de consulta sobre o tema. 
+
 # Regulação e Prevenção à Fraude no Setor Financeiro
 
 <img width="1536" height="1024" alt="SFN - Como os normativos se conectam" src="https://github.com/user-attachments/assets/8febc5dc-0bec-45f2-a67b-32e3fac7b39e" />
