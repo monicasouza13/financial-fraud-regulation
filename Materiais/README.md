@@ -16,10 +16,12 @@ Material visual com os principais conceitos, aspectos regulatórios e aplicaçõ
 
 Conteúdo em vídeo com uma síntese dos principais pontos abordados no projeto.
 
-▶️ Assistir ao resumo em vídeo 
+▶️ [Assistir ao resumo em vídeo ](https://github.com/monicasouza13/financial-fraud-regulation/blob/a6c74c13afcc058f75974be7dc2d45534c61cb3f/Materiais/Defesa_Financeira_BR_24_5MB.mp4)
 
 ## 🎧 Resumo em áudio
 
 Conteúdo em áudio desenvolvido para revisão e consulta dos principais temas apresentados no projeto.
 
-🎧 Ouvir o resumo em áudio
+🎧 [Ouvir o resumo em áudio](https://github.com/monicasouza13/financial-fraud-regulation/blob/9a0b163bc5a317fea78fe260d8e52d6f473b8fe2/Materiais/O_combate_a_fraude_bancaria_industrial_24_5MB.m4a)
+
+> **Nota:** Caso ocorra algum erro no carregamento dos arquivos, atualize a página e tente acessar o link novamente.
