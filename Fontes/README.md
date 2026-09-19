@@ -46,4 +46,4 @@ As fontes são organizadas de acordo com os temas abordados no repositório, pri
 [Resolução BCB nº 1/2020 - Regulamento do Pix](https://www.in.gov.br/en/web/dou/-/resolucao-bcb-n-1-de-12-de-agosto-de-2020-271965371)
 
 
-> **Nota:** Este projeto possui finalidade informativa e educacional e não substitui a consulta à legislação e aos atos normativos oficiais vigentes.
+> **Nota:** Este projeto possui finalidade informativa e educacional e não substitui a consulta à legislação e aos atos normativos oficiais vigentes. A relação de legislações, normas e documentos utilizados como referência está organizada na base de conhecimento do NotebookLM elaborada para este projeto.
