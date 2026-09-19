@@ -10,7 +10,7 @@ Material visual com os principais conceitos, aspectos regulatórios e aplicaçõ
 
 📑 [Acessar apresentação](https://github.com/monicasouza13/financial-fraud-regulation/blob/0bd0bf4b26974f5be4818e51eefd4df249988297/Materiais/Regula%C3%A7%C3%A3o%20e%20Preven%C3%A7%C3%A3o%20%C3%A0%20Fraude%20no%20Setor%20Financeiro.pdf)
 
-📑 Acessar apresentação - Playbook Estratégico 
+📑 [Acessar apresentação - Playbook Estratégico ](https://github.com/monicasouza13/financial-fraud-regulation/blob/ef6945dabcddeca7dedd86af59f0742d07987fb2/Materiais/Preven%C3%A7%C3%A3o%20%C3%A0%20Fraude%2C%20Risco%20e%20Seguran%C3%A7a%20no%20SFN.pdf)
 
 ## 🎥 Resumo em vídeo
 
